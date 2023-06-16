@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_sharp SQL DBD connection", "C_sharp SQL DBD connection.csproj", "{7981DE3D-BE1C-430A-95AF-714BAC7A96BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7981DE3D-BE1C-430A-95AF-714BAC7A96BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7981DE3D-BE1C-430A-95AF-714BAC7A96BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7981DE3D-BE1C-430A-95AF-714BAC7A96BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7981DE3D-BE1C-430A-95AF-714BAC7A96BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5905812B-D9F2-41B9-A7B8-7B0B64ADCDB0}
+	EndGlobalSection
+EndGlobal
